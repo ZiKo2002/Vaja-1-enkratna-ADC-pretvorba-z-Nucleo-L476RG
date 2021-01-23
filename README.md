@@ -1,0 +1,1 @@
+# Vaja-1-enkratna-ADC-pretvorba-z-Nucleo-L476RG
